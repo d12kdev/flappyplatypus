@@ -1,1 +1,1 @@
-[alt text](https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f633/u1f633_u1f633.png?fbx)
+[:0](https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f633/u1f633_u1f633.png?fbx)
